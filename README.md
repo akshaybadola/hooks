@@ -1,6 +1,6 @@
 # hooks
 
-Envisioned while designing a computer vision this is a a meta
+Envisioned while designing a computer vision project this is a a meta
 programming experiment for routines that can be outside the standard
 workflow of a program. I had thought of this idea for arbitrary
 injection of code in existing objects. The point of this whole thing
